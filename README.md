@@ -93,6 +93,3 @@ Shared settings (image size, batch size, epochs, learning rate, paths) live in `
 
 This **code repository** is separate from the **HAM10000** dataset license. You are responsible for complying with HAM10000’s terms and for citing the dataset appropriately in any publication or coursework.
 
-## Academic integrity
-
-See `statement.txt` in this repository for a plagiarism statement. 
